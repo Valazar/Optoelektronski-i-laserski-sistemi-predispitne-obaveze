@@ -1,0 +1,3 @@
+WindowDLG.c:150:21:_GetImageById	0	static
+WindowDLG.c:166:13:_cbDialog	16	static
+WindowDLG.c:255:9:CreateWindow	16	static

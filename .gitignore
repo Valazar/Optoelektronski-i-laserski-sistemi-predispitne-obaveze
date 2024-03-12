@@ -1,0 +1,22 @@
+# STM32CubeMX project files
+.project
+.settings/
+*.ioc
+
+# STM32 IDE project files
+.settings/
+*.launch
+*.cproject
+
+# Compiled files
+*.bin
+*.hex
+*.elf
+*.map
+*.lst
+
+# Generated files
+Middlewares/*
+Drivers/*
+Inc/*
+Src/*

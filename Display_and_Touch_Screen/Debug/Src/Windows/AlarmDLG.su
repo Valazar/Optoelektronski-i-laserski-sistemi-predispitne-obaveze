@@ -1,0 +1,3 @@
+AlarmDLG.c:158:21:_GetImageById	0	static
+AlarmDLG.c:174:13:_cbDialog	24	static
+AlarmDLG.c:411:9:CreateAlarm	16	static

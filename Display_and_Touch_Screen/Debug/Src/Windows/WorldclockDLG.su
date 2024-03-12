@@ -1,0 +1,3 @@
+WorldclockDLG.c:162:21:_GetImageById	0	static
+WorldclockDLG.c:178:13:_cbDialog	24	static
+WorldclockDLG.c:406:9:CreateWorldclock	16	static
